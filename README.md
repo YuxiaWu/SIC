@@ -1,5 +1,5 @@
 
-This is the code for "Semi-supervised New Slot Discovery with Incremental Clustering"
+This is the code for "Semi-supervised New Slot Discovery with Incremental Clustering", accepted by EMNLP 2022.
 
 # 1. Data Preparation
 - Camrest676: https://github.com/WING-NUS/sequicity/tree/master/data/CamRest676
@@ -38,4 +38,16 @@ Run:
 
 ```
 CUDA_VISIBLE_DEVICES=2 bash run_SIC.sh
+```
+
+# Citation
+
+```
+@inproceedings{wu2022semi,
+  title={Semi-supervised new slot discovery with incremental clustering},
+  author={Wu, Yuxia and Liao, Lizi and Qian, Xueming and Chua, Tat-Seng},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2022},
+  pages={6207--6218},
+  year={2022}
+}
 ```
