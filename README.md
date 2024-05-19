@@ -1,5 +1,5 @@
 
-This is the code for "Semi-supervised New Slot Discovery with Incremental Clustering", accepted by EMNLP 2022.
+[EMNLP 2022] Code and data for "Semi-supervised New Slot Discovery with Incremental Clustering".
 
 # 1. Data Preparation
 - Camrest676: https://github.com/WING-NUS/sequicity/tree/master/data/CamRest676
